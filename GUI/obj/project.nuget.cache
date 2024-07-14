@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOWWihfuZos=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arun\\Desktop\\GUI\\UartDataViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arun\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.6\\microsoft.netcore.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Arun\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.win-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
